@@ -3,7 +3,7 @@
 <p align="center">😄 Extrovert | 💻 Developer | 🎧 Vibes Enthusiast</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/rel-zxlye/main/ayanokoji_pfp.jpg" width="250" alt="rell"/>
+  <img src="https://raw.githubusercontent.com/rel_zxlye/rel-zxlye/main/ayanokoji_pfp.jpg" width="250" alt="rell"/>
 </p>
 
 ---
