@@ -1,5 +1,6 @@
+
 <h1 align="center">👋 Hello, I'm Farrel Surya Pratama</h1>
-<p align="center">🧠 Ekstrovert | 💻 Developer | 🎧 Vibes Enthusiast</p>
+<p align="center">🧠 Introvert | 💻 Developer | 🎧 Vibes Enthusiast</p>
 
 <p align="center">
   <img src="https://i.imgur.com/l8vRkzr.jpg" width="250" alt="rell"/>
@@ -9,7 +10,7 @@
 
 ### 📚 About Me
 
-- 🎓 Studying Informatics at **SMK MUHAMMADIYAH LEMAHABANG**
+- 🎓 Studying Informatics at **Telkom University Bandung**
 - 💻 I enjoy building with **Flutter**, **JavaScript**, and exploring **clean architectures**
 - 🎮 Outside code, I dive into **gaming**, **music**, and the occasional existential anime binge
 - 🎧 Favorite vibe lately: _"Let Down" - Radiohead_
@@ -40,3 +41,11 @@
 ---
 
 ### 🎧 Now Playing
+```
+🎵 Let Down — Radiohead  
+🕒 Status: always hitting different.
+```
+
+---
+
+> 🖼️ *PFP by [@ROSU7373](https://x.com/ROSU7373)*
