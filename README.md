@@ -40,7 +40,8 @@
 
 ---
 
-### 🎧 Now Playing
+### 🎧 Currently Listening To
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=9355767789ae4e31a1063e534bda9cf9&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/9355767789ae4e31a1063e534bda9cf9)
 
 
 ---
