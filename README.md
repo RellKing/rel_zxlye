@@ -1,9 +1,9 @@
 
 <h1 align="center">👋 Hello, I'm Farrel Surya Pratama</h1>
-<p align="center">😄 Extrovert | 💻 Developer | 🎧 Vibes Enthusiast</p>
+<p align="center">😹 Extrovert | 💻 Developer | 🎧 Vibes Enthusiast</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rel_zxlye/rel-zxlye/main/ayanokoji_pfp.jpg" width="250" alt="rell"/>
+  <img src="https://i.imgur.com/2L6xYZc.jpg" width="250" alt="rell"/>
 </p>
 
 ---
@@ -41,11 +41,9 @@
 ---
 
 ### 🎧 Now Playing
-```
-🎵 Let Down — Radiohead  
-🕒 Status: always hitting different.
-```
+
 
 ---
 
 > 🖼️ *PFP by [Pinterest](https://pin.it/SDnqG4z1t)*
+
